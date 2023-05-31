@@ -3,6 +3,9 @@
     margin: auto;
     padding: 20px;
   }
+  .greetings{
+    text-align: center;
+  }
 .row{
     display: flex;
     flex-wrap: wrap;
